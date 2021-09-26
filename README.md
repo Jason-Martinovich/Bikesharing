@@ -9,11 +9,11 @@ The purpose of this project was to analyze NYC Citi Bike Data for the month of A
 ~ Busiest times of the day were between 4-8PM
 ~ Most popular starting points are in downtown Manhatten
 ~ Males have a higher bike checkout rate than females 
-~ 81% of usuers are subscribers while 19% are customers.
+~ 81% of users are subscribers of the service
 
-##Summary
+## Summary
 
-The data shows high activity of the bike sharing service in New York during the month of August 2019.
+The data shows high usage of the Citi Bike service in New York during the month of August 2019.
 The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
 Additional analysis would be beneficial by :
 
