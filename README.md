@@ -7,8 +7,11 @@ The purpose of this project was to analyze NYC Citi Bike Data for the month of A
 [Link to dashboard](https://public.tableau.com/app/profile/jason3261/viz/NYCCitiBike_16326102973720/Story1?publish=yes)
 
 ~ Busiest times of the day were between 4-8PM
+
 ~ Most popular starting points are in downtown Manhatten
+
 ~ Males have a higher bike checkout rate than females 
+
 ~ 81% of users are subscribers of the service
 
 ## Summary
